@@ -1,0 +1,49 @@
+
+Assignment 1: Hiring Bot
+ A company uses an AI to screen job applicants. It tends to reject more female applicants with career gaps, write a short blog on what’s happening, what's problematic and one improvement idea.
+
+When AI in Hiring Gets It Wrong
+More companies are turning to AI to streamline hiring. These tools promise efficiency—scanning resumes, flagging top candidates, and reducing human workload. But what happens when the system starts rejecting more female applicants, especially those with career gaps?
+
+What’s Happening
+AI learns from historical data. If the company’s past hiring patterns favored continuous, “linear” career paths—often held by men—the algorithm may learn to undervalue resumes with career breaks. Since women are more likely to take time off for caregiving or other responsibilities, the AI ends up disproportionately rejecting them.
+
+Why This Is Problematic
+
+* Bias amplification: Instead of reducing bias, AI can reinforce and scale it.
+* Lost talent: Qualified candidates with valuable experience are unfairly excluded.
+* Legal and ethical risks: Discriminatory hiring practices can lead to compliance issues and reputational harm.
+
+
+
+ One Improvement Idea
+* Introduce fairness audits into the hiring pipeline. 
+* Regularly test the AI’s outcomes across gender and career paths, and retrain the model with more balanced data.
+* By ensuring that diverse career trajectories are represented in the training process, the AI can better recognize the value of non-linear work histories.
+
+The takeaway: AI in hiring can be powerful, but without careful oversight, it risks making old biases even harder to spot—and harder to fix.
+
+
+Assignment 2: School Proctoring AI
+
+write a short blog on what’s happening, what's problematic and one improvement idea when a system flags students as "cheating" based on eye movement — but it often flags neuro-divergent students.
+
+When AI Mistakes Learning Differences for Cheating
+
+More schools are experimenting with AI tools to monitor online exams. One common feature is eye-tracking—if a student looks away from the screen too often, the system may flag them as “cheating.” On the surface, this seems like a smart safeguard. But there’s a serious flaw: the system disproportionately flags neuro-divergent students, such as those with ADHD or autism, who may naturally move their eyes differently or struggle to maintain steady focus.
+
+
+What’s happening?
+The AI is designed with a narrow definition of “normal” behavior. It treats eye movement patterns outside that standard as suspicious. Since neuro-divergent students often don’t fit this mold, they’re unfairly flagged as dishonest, even when doing nothing wrong.
+
+Why This Is Problematic
+
+* Unfair disadvantage: Students are punished for traits beyond their control.
+* Erosion of trust: Instead of feeling supported, students feel surveilled and stigmatized.
+* Equity gap: These false flags reinforce systemic barriers for students who already face challenges in education.
+
+One Improvement Idea
+
+Build inclusive design into AI monitoring tools. Instead of relying on one rigid indicator like eye movement, systems should use a broader set of context-aware signals—or better yet, keep a human reviewer in the loop. This ensures genuine misconduct is caught without penalizing students for being different.
+The takeaway: AI in education should protect fairness, not undermine it. Designing with neurodiverse students in mind benefits everyone.
+
